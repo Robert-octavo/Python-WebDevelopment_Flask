@@ -1,2 +1,3 @@
 # Python :snake: WebDevelopment with Flask
-This is for python practice using FLASK and MongoDB 
+These projrct are develop using FLASK and MongoDB 
+
